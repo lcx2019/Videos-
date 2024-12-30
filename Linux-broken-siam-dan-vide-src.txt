@@ -1,0 +1,11 @@
+Linux broken , rescue disc/disk atranga a chroot hmanga siam dan
+
+What's the proper way to prepare chroot to recover a broken Linux installation?
+-The Computer Oracle
+https://www.youtube.com/watch?v=mtIKAuh8y9Q
+
+
+An Update Borked My Linux System. How Did I Fix It?
+-DistroTube
+
+https://www.youtube.com/watch?v=tTS2KVCJ-MQ
